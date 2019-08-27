@@ -1,26 +1,29 @@
 body{
-    background: moccasin;
+    background: #EAF6F6;
     margin: 10px;
 }
 
 h1{
     font-size: 50px;
-    color: rebeccapurple;
+    color: #663399;
 }
 
 h3,h5{
-    color: royalblue;
+    color: #4169E1;
 }
 
 div{
     font-size: 30px;
-    color: rebeccapurple;
+    color: #663399;
     
 }
 
 hr{
-   width: 15%;
-   border-top: 1px dashed brown;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 15%; 
 }
 
 img{
