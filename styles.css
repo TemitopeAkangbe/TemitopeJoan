@@ -1,0 +1,28 @@
+body{
+    background: moccasin;
+    margin: 10px;
+}
+
+h1{
+    font-size: 50px;
+    color: rebeccapurple;
+}
+
+h3,h5{
+    color: royalblue;
+}
+
+div{
+    font-size: 30px;
+    color: rebeccapurple;
+    
+}
+
+hr{
+   width: 15%;
+   border-top: 1px dashed brown;
+}
+
+img{
+    border-radius: 50%;
+}
